@@ -1,0 +1,3 @@
+[submodule "auto_invoice"]
+	path = auto_invoice
+	url = git@github.com:shine-it/auto_invoice.git
