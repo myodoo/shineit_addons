@@ -7,3 +7,6 @@
 [submodule "purchase_supplied_goods"]
 	path = purchase_supplied_goods
 	url = git@github.com:shine-it/purchase_supplied_goods.git
+[submodule "product_custom_attributes"]
+	path = product_custom_attributes
+	url = git@github.com:shine-it/product_custom_attributes.git
