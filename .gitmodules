@@ -3,4 +3,4 @@
 	url = git@github.com:shine-it/auto_invoice.git
 [submodule "oecn_base_fonts"]
 	path = oecn_base_fonts
-	url = gitgit@github.com:shine-it/oecn_base_fonts.git
+	url = git@github.com:shine-it/oecn_base_fonts.git
