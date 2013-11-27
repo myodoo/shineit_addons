@@ -1,6 +1,6 @@
 [submodule "auto_invoice"]
 	path = auto_invoice
 	url = git@github.com:shine-it/auto_invoice.git
-[submodule "oecn_base_fonts"]
-	path = oecn_base_fonts
-	url = git@github.com:shine-it/oecn_base_fonts.git
+[submodule "filter_product_quantity"]
+	path = filter_product_quantity
+	url = git@github.com:shine-it/filter_product_quantity.git
