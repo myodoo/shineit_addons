@@ -4,3 +4,6 @@
 [submodule "filter_product_quantity"]
 	path = filter_product_quantity
 	url = git@github.com:shine-it/filter_product_quantity.git
+[submodule "purchase_supplied_goods"]
+	path = purchase_supplied_goods
+	url = git@github.com:shine-it/purchase_supplied_goods.git
