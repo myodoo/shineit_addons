@@ -10,3 +10,6 @@
 [submodule "product_custom_attributes"]
 	path = product_custom_attributes
 	url = git@github.com:shine-it/product_custom_attributes.git
+[submodule "oecn_base_fonts"]
+	path = oecn_base_fonts
+	url = git@github.com:shine-it/oecn_base_fonts.git
